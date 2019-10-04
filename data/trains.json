@@ -1,12 +1,12 @@
 {
 	"trains": [
 		{
-			"name": "Hogwarts Express",
+			"name": "Hogwart Express",
 			"stops": [
 				{
 					"station": "Sycamore",
 					"status": "ON-TIME",
-					"arrival": "12:00pm",
+					"arrival": "12:01pm",
 					"departure": "12:10pm"
 				},
 				{
